@@ -1,0 +1,149 @@
+% Encoding: UTF-8
+
+@Article{Weiland2010,
+  author  = {{W}eiland, {P}eter},
+  title   = {{B}iogas production: current state and perspectives},
+  journal = {Applied Microbiology and Biotechnology},
+  year    = {2010},
+  volume  = {85},
+  pages   = {849--860},
+}
+
+@Article{Popescu2010,
+  author  = {{P}opescu, {M}arius {C}onstantin and {M}astorakis, {N}ikos},
+  title   = {{A}spects regarding the use of renewable energy in {EU} {C}ountries},
+  journal = {{WSEAS} {T}ransactions on {E}nvironment and {D}evelopment},
+  year    = {2010},
+  volume  = {6},
+  pages   = {265--275},
+  month   = apr,
+  issn    = {1790-5079},
+}
+
+@Article{Koenig2008,
+  author  = {{K}oenig, {S}tefan and {S}achau, {J}uergen},
+  title   = {{S}ustainability of {B}iomass {E}nergy {S}ources - {M}easurement and {R}egional {C}omparison},
+  journal = {{WSEAS} {T}ransactions on {E}nvironment and {D}evelopment},
+  year    = {2008},
+  volume  = {4},
+  pages   = {119--128},
+  month   = feb,
+  issn    = {1790-5079},
+}
+
+@Article{Petersson2007,
+  author  = {{P}etersson, {A}nneli et al},
+  title   = {{P}otential bioethanol and biogas production using lignocellulosic biomass from winter rye, oilseed rape and faba bean},
+  journal = {{B}iomass and {B}ioenergy},
+  year    = {2007},
+  number  = {31},
+  pages   = {812--819},
+}
+
+@Article{Boerjesson2006,
+  author    = {P{\aa}l B{\"o}rjesson and {M}aria {B}erglund},
+  title     = {{E}nvironmental systems analysis of biogas systems - {P}art 1: {F}uel-cycle emissions},
+  journal   = {{B}iomass and {B}ioenergy},
+  year      = {2006},
+  volume    = {5},
+  number    = {30},
+  pages     = {469--485},
+  issn      = {1873-2909},
+  abstract  = {Fuel-cycle emissions of carbon dioxide (CO2) carbon oxide (CO), nitrogen oxides (NOx), sulphur dioxide (SO2), hydrocarbons (HC), methane (CH4), and particles are analysed from a life-cycle perspective for different biogas systems based oil six different raw materials. The gas is produced in large- or farm-scale biogas plants, and is used in boilers for heat production, in turbines for co-generation of heat and electricity, or as a transportation fuel in light- and heavy-duty vehicles. The analyses refer mainly to Swedish conditions. The levels of fuel-cycle emissions vary greatly among the biogas systems studied, and are significantly affected by the properties of the raw material digested, the energy efficiency of the biogas production, and the status of the end-use technology. For example, fuel-cycle emission may vary by a factor of 3-4, and for certain gases by up to a factor of 11, between two biogas systems that provide an equivalent energy service. Extensive handling of raw materials, e.g. ley cropping or collection of waste-products such as municipal organic waste, is often a significant source of emissions. Emission from the production phase of the biogas exceeds the end-use emissions for several biogas systems and for specific emissions. Uncontrolled losses of methane, e.g. leakages from stored digestates or from biogas upgrading, increase the fuel-cycle emissions of methane considerably. Thus, it is necessary to clearly specify the biogas production system and enduse technology being studied in order to be able to produce reliable and accurate data oil fuel-cycle emission. (c) 2005 Elsevier Ltd. All rights reserved.},
+  doi       = {10.1016/j.biombioe.2005.11.014},
+  keywords  = {environmental systems analysis, emissions, fuel-cycle, anaerobic digestion, biogas, biogas production systems},
+  language  = {English},
+  publisher = {Elsevier},
+}
+
+@Incollection{Maurya2019,
+  author    = {{R}ahulkumar {M}aurya and {S}ushma {R}ani {T}irkey and {S}oundarya {R}ajapitamahuni and {A}rup {G}hosh and {S}andhya {M}ishra},
+  title     = {{C}hapter 9 - {R}ecent {A}dvances and {F}uture {P}rospective of {B}iogas {P}roduction},
+  booktitle = {{A}dvances in {F}eedstock {C}onversion {T}echnologies for {A}lternative {F}uels and {B}ioproducts},
+  publisher = {Woodhead Publishing},
+  year      = {2019},
+  editor    = {Majid Hosseini},
+  series    = {Woodhead Publishing Series in Energy},
+  pages     = {159--178},
+  isbn      = {978-0-12-817937-6},
+  abstract  = {Centuries of global usage of fossil fuel and petroleum has not only vanished the precious resource, which could not be replenished owing to its nonrenewability but has directed the researchers to look for renewable, sustainable, and environment-friendly approaches. In this context, biogas production via anaerobic digestion (AD) technology has become increasing trends globally with a huge potential in improving severe dependence on fossil fuels. Biogas production is known as feasible technique for harvesting energy from waste materials. This chapter encompasses recent advancements in technologies for biogas production through various biogas-enhancement strategies, their process control and monitoring, anaerobic membrane bioreactors, and biogas purification. It also includes applications such as capturing CO2 from biogas through its conditioning with microalgae culture and concentrating methane content. Emerging present and future energy demands of the world can be fulfilled with an improved AD process which indicates significant promise with future perspective, particularly for rural areas.},
+  doi       = {https://doi.org/10.1016/B978-0-12-817937-6.00009-6},
+  keywords  = {Biogas, anaerobic digestion, AnMBR, biogas purification},
+  url       = {http://www.sciencedirect.com/science/article/pii/B9780128179376000096},
+}
+
+@Inbook{Korbag2020,
+  pages     = {1--41},
+  author    = {{K}orbag, {I}ssa and {M}ohamed, {S}alma and {B}oghazala, {H}anan and {A}hmeedah, {M}ousay},
+  title     = {{R}ecent {A}dvances of {B}iogas {P}roduction and {F}uture {P}erspective},
+  publisher = {IntechOpen},
+  year      = {2020},
+  month     = {08},
+  isbn      = {978-1-83962-669-2},
+  doi       = {10.5772/intechopen.93231},
+}
+
+@Article{Ionel2010,
+  author        = {{I}onel, {I}oana and {C}ioabla, {A}drian},
+  title         = {{B}iogas production based on agricultural residues. {F}rom history to results and perspectives},
+  journal       = {WSEAS Transactions on Environment and Development},
+  year          = {2010},
+  volume        = {6},
+  month         = aug,
+  issn          = {1790-5079},
+  __markedentry = {[julia:]},
+}
+
+@Article{RivasSolano2010,
+  author  = {{R}ivas {S}olano, {O}lga and {F}aith {V}argas, {M}argie and {G}uillén {W}atson, {R}ossy},
+  title   = {{B}iodigestores: factores químicos, físicos y biológicos relacionados con su productividad},
+  journal = {{T}ecnología {E}n {M}archa},
+  year    = {2010},
+  volume  = {23},
+  number  = {1},
+  pages   = {39--46},
+}
+
+@Misc{Autores2013,
+  unknown      = {{Q}ué es un biodigestor y cómo implementarlo en casa},
+  author       = {Varios Autores},
+  title        = {{Q}ué es un biodigestor y cómo implementarlo en casa},
+  howpublished = {Accedido en url: https://www.bioguia.com/tecnologia/biodigestores_29295392.html},
+  month        = mar,
+  year         = {2013},
+  unknown      = {{Q}ué es un biodigestor y cómo implementarlo en casa},
+}
+
+@Article{Sogari2003,
+  author  = {{S}ogari, {N}oem},
+  title   = {{C}álculo de la producción de metano generado por distintos restos orgánicos},
+  journal = {Universidad Nacional Del Nordeste, Argentina. Comunicaciones Científicas y Tecnológicas.},
+  year    = {2003},
+}
+
+@Book{Blanco2013,
+  author    = {{B}lanco, {D}airom and {C}epero, {L}uis and {S}úarez, {J}esús and {J}.{M}artín, {G}iraldo},
+  editor    = {Estación Experimental Indio Hatuey},
+  title     = {{M}anual para el diseño, montaje y operación de digestores plásticos de bajo costo. {U}na alternativa para {C}uba},
+  publisher = {Estación Experimental Indio Hatuey},
+  year      = {2013},
+  address   = {Central España Republicana, CP 44280, Matanzas, Cuba.},
+  isbn      = {978-959-7138-16-7},
+}
+
+@Article{Moraes2015,
+  author        = {{M}oraes, {B}runa and {Z}aiat, {M}arcelo and {B}onomi, {A}ntonio},
+  title         = {{A}naerobic digestion of vinasse from sugarcane ethanol production in {B}razil: {C}hallenges and perspectives},
+  journal       = {Renewable and Sustainable Energy Reviews},
+  year          = {2015},
+  volume        = {44},
+  pages         = {888--903},
+  issn          = {1364-0321},
+  __markedentry = {[julia:6]},
+  abstract      = {The replacement of fossil fuels by biofuels has been extremely important worldwide to stimulate the growth of economies based on the sustainability through the use of renewable resources. Anaerobic digestion for biogas production is recognized as a clean technology that allies the suitability of wastes with energy generation, fulfilling the requirements for a sustainable alternative to provide the optimization of the biofuels production. This alternative is especially interesting for the sugarcane ethanol production in Brazil, in which the generation of vinasse, the main liquid waste, is very expressive. Nevertheless, the use of vinasse for anaerobic digestion has been finding some challenges to its establishment in the Brazilian sugarcane biorefineries. This paper reviews the actual context of anaerobic digestion within the sugarcane ethanol production in Brazil, presenting the main obstacles for its full application and the directions to promote it as well. Alternatives for biogas use are also presented and compared, highlighting the environmental and energy advantages of applying anaerobic digestion in the sugarcane biorefineries. This scenario is envisaged as a suitable way to achieve the future biorefineries model, based on the use and recovery of renewable resources with economic, social, and environmental benefits.},
+  doi           = {https://doi.org/10.1016/j.rser.2015.01.023},
+  keywords      = {Sugarcane ethanol production, Vinasse, Pentoses liquor, Anaerobic digestion, Biogas, Sustainable biorefinery},
+  url           = {http://www.sciencedirect.com/science/article/pii/S1364032115000337},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
