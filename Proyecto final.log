@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.20)  20 DEC 2020 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.20)  20 DEC 2020 17:22
 entering extended mode
 **"./Proyecto final.tex"
 ("Proyecto final.tex"
@@ -69,6 +69,35 @@ Package: cite 2015/02/27  v 5.5
 ty"
 \bibhang=\skip49
 )
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
 ("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
 d-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
@@ -80,69 +109,131 @@ LaTeX Info: Redefining \% on input line 13.
 )
 \openout1 = `"Proyecto final.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen138
+\scratchbox=\box46
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen139
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\julia\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 21.
+(Font)              <10.95> on input line 22.
 
-LaTeX Warning: Citation `Popescu2010' on page 1 undefined on input line 25.
-
-
-LaTeX Warning: Citation `Koenig2008' on page 1 undefined on input line 27.
+LaTeX Warning: Citation `Popescu2010' on page 1 undefined on input line 26.
 
 
-LaTeX Warning: Citation `Petersson2007' on page 1 undefined on input line 29.
+LaTeX Warning: Citation `Koenig2008' on page 1 undefined on input line 28.
 
 
-LaTeX Warning: Citation `Boerjesson2006' on page 1 undefined on input line 31.
+LaTeX Warning: Citation `Petersson2007' on page 1 undefined on input line 30.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
-
- []
+LaTeX Warning: Citation `Boerjesson2006' on page 1 undefined on input line 32.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
 
  []
 
@@ -150,50 +241,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--32
 
 {C:/Users/julia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-LaTeX Warning: Citation `Maurya2019' on page 2 undefined on input line 34.
+LaTeX Warning: Citation `Maurya2019' on page 2 undefined on input line 35.
 
 
-LaTeX Warning: Citation `Korbag2020' on page 2 undefined on input line 36.
+LaTeX Warning: Citation `Korbag2020' on page 2 undefined on input line 37.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
 
  []
 
 
-Overfull \hbox (5.63916pt too wide) in paragraph at lines 34--39
+Overfull \hbox (5.63916pt too wide) in paragraph at lines 35--40
 \OT1/cmr/m/n/10.95 Las tecni-cas avan-za-das, co-mo la se-pa-ra-cion de hi-dr
 a-tos, la se-pa-ra-cion criogeni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 []$\OML/cmm/m/it/10.95 CH[]CH[]COO[]$ \OT1/cmr/m/n/10.95 + $3\OML/cmm/m/it/10.9
 5 H[]O$ $[][]\OMS/cmsy/m/n/10.95 !$
  []
 
 
-Overfull \hbox (5.43304pt too wide) in paragraph at lines 45--56
+Overfull \hbox (5.43304pt too wide) in paragraph at lines 46--57
  [][] 
  []
 
 
-LaTeX Warning: Citation `Moraes2015' on page 3 undefined on input line 56.
+LaTeX Warning: Citation `Moraes2015' on page 3 undefined on input line 57.
 
 
-LaTeX Warning: Citation `Ionel2010' on page 3 undefined on input line 61.
+LaTeX Warning: Citation `Ionel2010' on page 3 undefined on input line 63.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
-("Proyecto final.bbl") [3] ("Proyecto final.aux"
+
+LaTeX Warning: Citation `RivasSolano2010' on page 3 undefined on input line 66.
+
+
+<ImagenBiodigestor.jpg, id=16, 426.84468pt x 349.305pt>
+File: ImagenBiodigestor.jpg Graphic file (type jpg)
+<use ImagenBiodigestor.jpg>
+Package pdftex.def Info: ImagenBiodigestor.jpg  used on input line 69.
+(pdftex.def)             Requested size: 320.13272pt x 261.9781pt.
+
+LaTeX Warning: Citation `Autores2013' on page 3 undefined on input line 70.
+
+[3] ("Proyecto final.bbl") [4 <./ImagenBiodigestor.jpg>] ("Proyecto final.aux"
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 )
@@ -202,13 +305,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1547 strings out of 480898
- 23377 string characters out of 2898308
- 274154 words of memory out of 3000000
- 17469 multiletter control sequences out of 15000+200000
+ 2795 strings out of 480898
+ 42757 string characters out of 2898308
+ 295649 words of memory out of 3000000
+ 18652 multiletter control sequences out of 15000+200000
  537855 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,15n,35p,733b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,15n,35p,733b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/f
@@ -221,9 +324,9 @@ cmr8.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy8.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Proyecto final.pdf" (3 pages, 121468 bytes).
+Output written on "Proyecto final.pdf" (4 pages, 159405 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
