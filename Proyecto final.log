@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.20)  21 DEC 2020 08:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.20)  21 DEC 2020 08:30
 entering extended mode
 **"./Proyecto final.tex"
 ("Proyecto final.tex"
@@ -417,7 +417,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--66
 LaTeX Warning: Citation `RivasSolano2010' on page 3 undefined on input line 68.
 
 
-<ImagenBiodigestor.jpg, id=40, 426.84468pt x 349.305pt>
+<ImagenBiodigestor.jpg, id=44, 426.84468pt x 349.305pt>
 File: ImagenBiodigestor.jpg Graphic file (type jpg)
 <use ImagenBiodigestor.jpg>
 Package pdftex.def Info: ImagenBiodigestor.jpg  used on input line 71.
@@ -438,31 +438,57 @@ LaTeX Warning: Citation `Blanco2013' on page 4 undefined on input line 108.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-("Proyecto final.bbl" [4 <./ImagenBiodigestor.jpg>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+[4 <./ImagenBiodigestor.jpg>] ("Proyecto final.lof"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Warning: Citation `Autores2013' on page 5 undefined on input line 2.
+
+)
+\tf@lof=\write4
+\openout4 = `"Proyecto final.lof"'.
+
+ ("Proyecto final.lot"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Warning: Citation `Moraes2015' on page 5 undefined on input line 2.
+
+
+LaTeX Warning: Citation `Blanco2013' on page 5 undefined on input line 3.
+
+)
+\tf@lot=\write5
+\openout5 = `"Proyecto final.lot"'.
+
+ ("Proyecto final.bbl")
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
  ("Proyecto final.aux"
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 Package rerunfilecheck Info: File `"Proyecto final".out' has not changed.
-(rerunfilecheck)             Checksum: BE33D6ABA88A67711D3D0D5939F93A5C;256.
+(rerunfilecheck)             Checksum: 527D4EED5D514F83DE4A892508073DC9;304.
+
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 6335 strings out of 480898
- 99004 string characters out of 2898308
+ 6350 strings out of 480898
+ 99288 string characters out of 2898308
  374941 words of memory out of 3000000
- 22103 multiletter control sequences out of 15000+200000
+ 22109 multiletter control sequences out of 15000+200000
  538023 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,15n,35p,733b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,15n,35p,733b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/julia/AppData/Local/Programs/MiKTeX 2.9/f
@@ -479,9 +505,9 @@ rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/julia/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users
 /julia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.
 pfb>
-Output written on "Proyecto final.pdf" (5 pages, 198833 bytes).
+Output written on "Proyecto final.pdf" (5 pages, 201417 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
