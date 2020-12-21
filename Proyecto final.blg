@@ -2,50 +2,52 @@ This is BibTeX, Version 0.99d (MiKTeX 2.9.7380 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Proyecto final.aux
 The style file: apalike.bst
-Illegal, another \bibstyle command---line 9 of file Proyecto final.aux
+Illegal, another \bibstyle command---line 54 of file Proyecto final.aux
  : \bibstyle
  :          {apalike}
 I'm skipping whatever remains of this command
 Database file #1: Biblio.bib
-You've used 1 entry,
+Warning--can't use both author and editor fields in Blanco2013
+Warning--there's a number but no volume in Petersson2007
+You've used 13 entries,
             1935 wiz_defined-function locations,
-            479 strings with 3829 characters,
-and the built_in function-call counts, 375 in all, are:
-= -- 38
-> -- 7
-< -- 1
-+ -- 2
-- -- 2
-* -- 28
-:= -- 69
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 14
-empty$ -- 30
-format.name$ -- 3
-if$ -- 71
+            564 strings with 6559 characters,
+and the built_in function-call counts, 5133 in all, are:
+= -- 514
+> -- 194
+< -- 10
++ -- 63
+- -- 63
+* -- 424
+:= -- 896
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 94
+chr.to.int$ -- 13
+cite$ -- 15
+duplicate$ -- 195
+empty$ -- 362
+format.name$ -- 84
+if$ -- 1004
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 3
+missing$ -- 14
+newline$ -- 68
+num.names$ -- 41
+pop$ -- 78
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 96
 quote$ -- 0
-skip$ -- 12
+skip$ -- 151
 stack$ -- 0
-substring$ -- 37
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 376
+swap$ -- 27
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
-while$ -- 4
+type$ -- 74
+warning$ -- 2
+while$ -- 47
 width$ -- 0
-write$ -- 15
+write$ -- 171
 (There was 1 error message)
